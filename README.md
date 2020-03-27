@@ -1,4 +1,2 @@
-gimindyjones.github.io
-======================
 
-Portfolio
+======================
